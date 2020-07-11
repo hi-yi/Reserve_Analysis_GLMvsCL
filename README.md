@@ -7,5 +7,5 @@ This is an excercise to compare IBNR Reserve between GLM and ILDM.
   * assumed poisson distribution with log-link
   * predictors are accident year and development year
 
-- ILDM assumptions :
+- LDM assumptions :
   * LDF assumption with weighted average

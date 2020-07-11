@@ -1,6 +1,6 @@
 # Reserve_Analysis_GLMvsCL
 
-This is an excercise to compare INBR Reserve between GLM and ILDM.
+This is an excercise to compare IBNR Reserve between GLM and ILDM.
 
 - Data : Sample triangle from ChainLadder library in R
 - GLM assumptsions:
